@@ -1,0 +1,24 @@
+{
+  "name": "Word-Guess-CLI",
+  "version": "1.0.0",
+  "description": "Command line Node word guess game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuk881/Word-Guess-CLI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zuk881/Word-Guess-CLI/issues"
+  },
+  "homepage": "https://github.com/zuk881/Word-Guess-CLI#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.4"
+  }
+}
